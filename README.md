@@ -37,6 +37,7 @@ Page.all.select { |page| page.body.include?(string)}.count
 
 # Case Study 2
 
+1. Return an array of fund objects in alphabetical order.
 ```
 function returnFundObjects() {
     fundListArray = []
